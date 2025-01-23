@@ -14,19 +14,33 @@ body {
     background-color: #2e2e2ec4;
     padding:0;
     height: 100vh;          /* Define a altura total da viewport */
-    margin: 0;  
+    margin: 20px;  
     font-family: verdana;  
 }
  
 body h1 {
     margin-bottom: 20px;
+    color:white;
+    text-shadow: #272727;
+    text-align: center;
 }
 
+body p {
+    text-align: center;
+    color: antiquewhite;
+}
+
+.decoracao {
+    color: #02c713;
+    font-weight: 600;
+}
 #conteiner_main {
 
     display: flex;
+    border-radius: 20px;
+    box-shadow: 10, 40, #1b1b1b;
     background-color: #101010;
-    margin-top: 100px; 
+    margin-top: 50px; 
     padding: 20px;
     max-width: 400px;
     justify-content: center;
@@ -74,9 +88,9 @@ body h1 {
     border: 1px solid transparent;
     color: white;
     border-radius: 50px;
-    height: 50px;
-    width: 50px;
-    font-size: 1.2em;
+    height: 65px;
+    width: 65px;
+    font-size: 1.5em;
     background-color: #272727;
     cursor: pointer;
 }
@@ -85,9 +99,67 @@ body h1 {
     border: 1px solid transparent;
     color: white;
     border-radius: 50px;
-    height: 50px;
-    width: 50px;
-    font-size: 1.2em;
+    height: 65px;
+    width: 65px;
+    font-size: 1.5em;
     background-color: #424242;
     cursor: pointer;
+}
+
+#botoes .operacao {
+    border: 1px solid transparent;
+    color: #00970d;
+    border-radius: 50px;
+    height: 65px;
+    width: 65px;
+    font-size: 1.5em;
+    background-color: #1b1b1b;
+    cursor: pointer;
+}
+
+#botoes .operacao:hover {
+    border: 1px solid transparent;
+    color: #00970d;
+    border-radius: 50px;
+    height: 65px;
+    width: 65px;
+    font-size: 1.5em;
+    background-color: #303030;
+    cursor: pointer;
+}
+
+#botoes .limparTudo {
+    border: 1px solid transparent;
+    color: #be3220;
+    border-radius: 50px;
+    height: 65px;
+    width: 65px;
+    font-size: 1.5em;
+    background-color: #1b1b1b;
+    cursor: pointer;
+}
+
+#botoes #igual {
+    border: 1px solid transparent;
+    color: white;
+    border-radius: 20px;
+    height: 65px;
+    width: 130px;
+    font-size: 1.8em;
+    background-color: #00970d;
+    cursor: pointer;
+    grid-column: span 2;
+}
+
+#botoes #igual:hover {
+    border: 1px solid transparent;
+    color: white;
+    border-radius: 20px;
+    height: 65px;
+    width: 130px;
+    font-size: 1.8em;
+    background-color: #02c713;
+    cursor: pointer;
+    grid-column: span 2;
+
 }
