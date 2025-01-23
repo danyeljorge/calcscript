@@ -142,6 +142,17 @@ body p {
     cursor: pointer;
 }
 
+#botoes .limparTudo:hover {
+    border: 1px solid transparent;
+    color: #be3220;
+    border-radius: 50px;
+    height: 65px;
+    width: 65px;
+    font-size: 1.5em;
+    background-color: #303030;
+    cursor: pointer;
+}
+
 #botoes #igual {
     border: 1px solid transparent;
     color: white;
