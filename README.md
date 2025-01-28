@@ -65,3 +65,21 @@ O arquivo `script.js` implementa a lógica da calculadora:
 
    ```bash
    git clone https://github.com/danyeljorge/calcscript.git
+   ```
+2. Abra o arquivo index.html no navegador.
+
+3. Interaja com a calculadora e experimente suas funcionalidades.
+
+### 🖼️ Demonstração
+
+![CalcScript](./asset/img/calcscript.jpeg)
+
+## 🧑‍💻 Autor
+
+Desenvolvido por Daniel Jorge.
+Confira mais projetos no meu [GitHub.](https://github.com/danyeljorge)
+
+##📜 Licença
+
+Este projeto é de código aberto e está sob a licença MIT. 
+Sinta-se à vontade para usá-lo e modificá-lo.
