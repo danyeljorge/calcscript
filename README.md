@@ -33,12 +33,35 @@ Calculadora-CalcScript/
 │   └── js/
 │       └── script.js
 └── README.md
-
+```
 
 ## 📋 HTML
 
-O arquivo index.html é o esqueleto do projeto. Ele contém:
+O arquivo `index.html` é o esqueleto do projeto. Ele contém:
 
-* Um título e uma breve descrição.
-* A área principal da calculadora com display e botões.
-* Um rodapé com links para redes sociais.
+- Um título e uma breve descrição.
+- A área principal da calculadora com display e botões.
+- Um rodapé com links para redes sociais.
+
+## 🎨 CSS
+
+O arquivo `style.css` é responsável pela aparência do projeto, incluindo:
+
+- Estilização dos botões e layout responsivo.
+- Cores e fontes para melhor visibilidade.
+- Transições suaves ao interagir com os elementos.
+
+## 🔧 JavaScript
+
+O arquivo `script.js` implementa a lógica da calculadora:
+
+- Classes e métodos para processar as operações.
+- Eventos de clique para capturar interações com os botões.
+- Atualização dinâmica dos displays de cálculo e resultado.
+
+## 🚀 Como Executar o Projeto
+
+1. Faça o download ou clone este repositório:
+
+   ```bash
+   git clone https://github.com/danyeljorge/calcscript.git
