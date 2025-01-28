@@ -33,3 +33,11 @@ Calculadora-CalcScript/
 │   └── js/
 │       └── script.js
 └── README.md
+
+## 📋 HTML
+
+O arquivo index.html é o esqueleto do projeto. Ele contém:
+
+* Um título e uma breve descrição.
+* A área principal da calculadora com display e botões.
+* Um rodapé com links para redes sociais.
