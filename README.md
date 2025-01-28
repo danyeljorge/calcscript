@@ -34,6 +34,7 @@ Calculadora-CalcScript/
 │       └── script.js
 └── README.md
 
+
 ## 📋 HTML
 
 O arquivo index.html é o esqueleto do projeto. Ele contém:
