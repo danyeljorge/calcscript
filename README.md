@@ -2,6 +2,11 @@
 
 Uma calculadora desenvolvida com **HTML**, **CSS** e **JavaScript**, criada com o objetivo de aprendizado e prática em desenvolvimento web.
 
+### 🖼️ Demonstração
+
+![CalcScript](./asset/img/calcscript.jpeg)
+
+
 ## 🔍 Descrição do Projeto
 
 O projeto **CalcScript** é uma calculadora funcional que suporta operações matemáticas básicas, como soma, subtração, multiplicação e divisão. A calculadora possui uma interface amigável, botões interativos e exibe os cálculos em tempo real.
@@ -69,10 +74,6 @@ O arquivo `script.js` implementa a lógica da calculadora:
 2. Abra o arquivo index.html no navegador.
 
 3. Interaja com a calculadora e experimente suas funcionalidades.
-
-### 🖼️ Demonstração
-
-![CalcScript](./asset/img/calcscript.jpeg)
 
 ## 🧑‍💻 Autor
 
