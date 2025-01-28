@@ -79,7 +79,7 @@ O arquivo `script.js` implementa a lógica da calculadora:
 Desenvolvido por Daniel Jorge.
 Confira mais projetos no meu [GitHub.](https://github.com/danyeljorge)
 
-##📜 Licença
+## 📜 Licença
 
 Este projeto é de código aberto e está sob a licença MIT. 
 Sinta-se à vontade para usá-lo e modificá-lo.
