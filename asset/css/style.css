@@ -80,14 +80,14 @@ body p {
     min-height: 1.6em;
 }
 
-#botoes {
+#botoes-conteiner {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     gap: 3px;
 
 }
 
-#botoes .btn {
+#botoes-conteiner .btn {
     border: 1px solid transparent;
     color: white;
     border-radius: 50px;
@@ -98,7 +98,7 @@ body p {
     cursor: pointer;
 }
 
-#botoes .btn:hover {
+#botoes-conteiner .btn:hover {
     border: 1px solid transparent;
     color: white;
     border-radius: 50px;
@@ -109,7 +109,7 @@ body p {
     cursor: pointer;
 }
 
-#botoes .operacao {
+#botoes-conteiner .operacao {
     border: 1px solid transparent;
     color: #00970d;
     border-radius: 50px;
@@ -120,7 +120,7 @@ body p {
     cursor: pointer;
 }
 
-#botoes .operacao:hover {
+#botoes-conteiner .operacao:hover {
     border: 1px solid transparent;
     color: #00970d;
     border-radius: 50px;
@@ -131,7 +131,7 @@ body p {
     cursor: pointer;
 }
 
-#botoes .limparTudo {
+#botoes-conteiner .limparTudo {
     border: 1px solid transparent;
     color: #be3220;
     border-radius: 50px;
@@ -142,7 +142,7 @@ body p {
     cursor: pointer;
 }
 
-#botoes .limparTudo:hover {
+#botoes-conteiner .limparTudo:hover {
     border: 1px solid transparent;
     color: #be3220;
     border-radius: 50px;
@@ -153,7 +153,7 @@ body p {
     cursor: pointer;
 }
 
-#botoes #igual {
+#botoes-conteiner #igual {
     border: 1px solid transparent;
     color: white;
     border-radius: 20px;
@@ -165,7 +165,7 @@ body p {
     grid-column: span 2;
 }
 
-#botoes #igual:hover {
+#botoes-conteiner #igual:hover {
     border: 1px solid transparent;
     color: white;
     border-radius: 20px;
